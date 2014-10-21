@@ -1,8 +1,8 @@
 __author__ = 'kubrakose'
 
-def fnc():
-    a=raw_input("enter string")
-    print len(a)
+def fnc(a, b):
+    a= a + b
+    print (a**a) + a
 fnc()
 
 
