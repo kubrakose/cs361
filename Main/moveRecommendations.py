@@ -6,3 +6,6 @@ def fnc():
 fnc()
 
 
+def newf():
+    print 3+5
+
