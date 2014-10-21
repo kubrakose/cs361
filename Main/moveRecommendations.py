@@ -6,6 +6,6 @@ def fnc():
 fnc()
 
 
-def newf():
-    print 3+5
+def newfile():
+    print 'mw-'
 
