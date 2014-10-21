@@ -8,4 +8,7 @@ def fff():
 
 def fnc(a, b):
     a= a + b
+    print (a**a) + a
+fnc()
+
 
