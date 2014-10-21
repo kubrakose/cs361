@@ -9,3 +9,5 @@ fnc()
 def newfile():
     print 'mw-'
 
+def fff():
+    print "nbr"
