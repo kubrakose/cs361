@@ -1,14 +1,6 @@
-__author__ = 'kubrakose'
+__author__ = 'fsebile'
 
-def newfile():
-    print 'mw-'
-
-def fff():
-    print "nbr"
-
-def fnc(a, b):
-    a= a + b
-    print (a**a) + a
-fnc()
-
-
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-2) + fib(n-1)
